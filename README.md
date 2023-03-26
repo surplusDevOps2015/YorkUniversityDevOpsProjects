@@ -1,2 +1,2 @@
-# YorkUniversityDevOpsProjects
-YorkUniversity_DevOpsProjects
+# scm
+scm
